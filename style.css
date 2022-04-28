@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Urbanist:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #222;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  width: 100%;
+}
+.list-wrapper {
+  padding: 15px;
+  overflow: hidden;
+  width: 90%;
+  display: flex;
+  margin: 0 auto;
+}
+.list-item {
+  border: 1px solid #eee;
+  background: #fff;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-shadow: 0 0 10px 0 #eee;
+  width: 32%;
+  margin: 15px;
+  position: relative;
+  cursor: pointer;
+}
+.list-item img {
+  width: 100%;
+  object-fit: contain;
+}
+.list-item .text {
+  text-align: center;
+}
+.text h3 {
+  font-size: 24px;
+}
+.text p {
+  font-size: 18px;
+}
+/* back */
+.description {
+  position: absolute;
+  top: 0;
+  opacity: 0;
+  background: #000;
+  transition: all 1s ease;
+  height: 100%;
+  left: 0;
+  color: #fff;
+}
+.description .d-text {
+  padding: 15px;
+}
+.d-text h3 {
+  font-size: 24px;
+}
+.d-text p {
+  font-size: 16px;
+}
+.list-item:hover .description {
+  opacity: 1;
+}
+.simple-pagination ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  margin-left: 10px;
+}
+.simple-pagination li {
+  display: inline-block;
+  margin: 2px;
+}
+
+.simple-pagination li a,
+.simple-pagination li span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #fff;
+  text-align: center;
+  text-decoration: none;
+  color: #252525;
+  border-radius: 4px;
+  margin: 5px;
+  box-shadow: inset 0 5px 10px rgba(0, 0, 0, 0.1);
+  transition: all 1s ease;
+}
+.simple-pagination li a:hover {
+  background: #000;
+  color: #fff;
+}
+
+.simple-pagination .current {
+  color: #fff;
+  background-color: #000;
+  border-color: #ffffff;
+  border: 1px solid;
+  cursor: pointer;
+}
+.simple-pagination .prev.current,
+.simple-pagination .next.current {
+  background: #222;
+  border: none;
+}
