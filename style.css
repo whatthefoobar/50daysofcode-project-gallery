@@ -10,8 +10,14 @@ body {
   background: #222;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+.title {
+  color: white;
+  font-size: 2rem;
+  margin-bottom: 20px;
 }
 .container {
   width: 100%;
@@ -64,8 +70,23 @@ body {
 .d-text h3 {
   font-size: 24px;
 }
+.buttons {
+  margin-top: 30px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.buttons button {
+  cursor: pointer;
+  padding: 10px 15px;
+  font-size: 18px;
+  border-radius: 15px;
+}
 .d-text p {
   font-size: 16px;
+  margin-top: 15px;
 }
 .list-item:hover .description {
   opacity: 1;
