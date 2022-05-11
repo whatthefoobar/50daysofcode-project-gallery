@@ -7,7 +7,7 @@
 }
 body {
   font-family: 'Roboto', sans-serif;
-  background: #222;
+  background: #333;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -71,7 +71,7 @@ body {
   font-size: 24px;
 }
 .buttons {
-  margin-top: 30px;
+  margin-top: 20px;
   cursor: pointer;
   display: flex;
   justify-content: center;
@@ -80,9 +80,13 @@ body {
 }
 .buttons button {
   cursor: pointer;
-  padding: 10px 15px;
-  font-size: 18px;
+  padding: 7px 12px;
+  font-size: 16px;
   border-radius: 15px;
+}
+.buttons button:hover {
+  background-color: #000;
+  color: #fff;
 }
 .d-text p {
   font-size: 16px;
