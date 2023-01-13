@@ -30,115 +30,115 @@
     },
     {
       "id": 5,
-      "title": "",
+      "title": "Blurry Loading Page Background",
       "img": "./img/5.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/5.%20Blurry%20Loading%20Page%20Background",
       "preview": "http://50projects-project-5.netlify.app"
     },
     {
       "id": 6,
-      "title": "",
+      "title": "3D rotating nav menu",
       "img": "./img/6.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/6.%203D%20rotating%20nav%20menu",
       "preview": "http://50projects-project-6.netlify.app"
     },
     {
       "id": 7,
-      "title": "About Page",
+      "title": "Dark-Light theme toggler",
       "img": "./img/7.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/7.%20Dark-Light%20theme%20toggler",
       "preview": "http://50projects-project-7.netlify.app"
     },
     {
       "id": 8,
-      "title": "About Page",
+      "title": "Drag & Drop List",
       "img": "./img/8.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/8.%20Drag%20%26%20Drop%20List",
       "preview": "http://50projects-project-8.netlify.app"
     },
     {
       "id": 9,
-      "title": "About Page",
+      "title": "Carousel Cards Slider",
       "img": "./img/9.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/9.%20Carousel%20Cards%20Slider",
       "preview": "http://50projects-project-9.netlify.app"
     },
     {
       "id": 10,
-      "title": "About Page",
+      "title": "Scroll-to-see animation",
       "img": "./img/10.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/10.%20Scroll-to-see%20animation",
       "preview": "http://50projects-project-10.netlify.app"
     },
     {
       "id": 11,
-      "title": "About Page",
+      "title": "Grid Layout with Picture n text section",
       "img": "./img/11.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/11.%20Grid%20Layout%20with%20Picture%20n%20text%20section",
       "preview": "http://50projects-project-11.netlify.app"
     },
     {
       "id": 12,
-      "title": "About Page",
+      "title": "Sidebar Menu Html CSS",
       "img": "./img/12.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/12.%20Sidebar%20Menu%20Html%20CSS",
       "preview": "http://50projects-project-12.netlify.app"
     },
 
     {
       "id": 13,
-      "title": "About Page",
+      "title": "Responsive About Section",
       "img": "./img/13.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/13.%20Responsive%20About%20Section",
       "preview": "http://50projects-project-13.netlify.app"
     },
     {
       "id": 14,
-      "title": "About Page",
+      "title": "Animated Skill Bar",
       "img": "./img/14.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/14.%20Animated%20Skill%20Bar",
       "preview": "http://50projects-project-14.netlify.app"
     },
     {
       "id": 15,
-      "title": "About Page",
+      "title": "Custom Checkbox",
       "img": "./img/15.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/15.%20Custom%20Checkbox",
       "preview": "http://50projects-project-15.netlify.app"
     },
     {
       "id": 16,
-      "title": "About Page",
+      "title": "Animated Project Card",
       "img": "./img/16.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/16.%20Animated%20Project%20Card",
       "preview": "http://50projects-project-16.netlify.app"
     },
     {
       "id": 17,
-      "title": "About Page",
+      "title": "Social Media Icons animation",
       "img": "./img/17.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/17.%20Social%20Media%20Icons%20animation",
       "preview": "http://50projects-project-17.netlify.app"
     },
     {
       "id": 18,
-      "title": "About Page",
+      "title": "Random Image Feed",
       "img": "./img/18.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/18.%20Random%20Image%20Feed",
       "preview": "http://50projects-project-18.netlify.app"
     },
     {
       "id": 19,
-      "title": "About Page",
+      "title": "Vertical Navigation Bar",
       "img": "./img/19.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/19.%20Vertical%20Navigation%20Bar",
       "preview": "http://50projects-project-19.netlify.app"
     },
     {
       "id": 20,
-      "title": "About Page",
+      "title": "Testimonial Slider",
       "img": "./img/20.PNG",
-      "code": "",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/20.%20Testimonial%20Slider",
       "preview": "http://50projects-project-20.netlify.app"
     }
   ]
