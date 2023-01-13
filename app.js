@@ -1,23 +1,3 @@
-// const data = [
-//   {
-//     id: 1,
-//     img: "img/1.png",
-//     code: "https://github.com/whatthefoobar/50days-of-code/tree/main/1.%20Expanding%20Cards",
-//     preview: "http://50projects-project-1.netlify.app",
-//   },
-//   {
-//     id: 2,
-//     img: "img/2.PNG",
-//     code: "https://github.com/whatthefoobar/50days-of-code/tree/main/2.%20Progress%20step%20bar",
-//     preview: "http://50projects-project-2.netlify.app",
-//   },
-//   {
-//     id: 3,
-//     img: "img/3.PNG",
-//     code: "https://github.com/whatthefoobar/50days-of-code/tree/main/3.%20Hidden%20Search%20Widget",
-//     preview: "http://50projects-project-3.netlify.app",
-//   },
-// ];
 const listWrapper = document.querySelector(".list-wrapper");
 
 const fetchProjects = async () => {
@@ -52,7 +32,7 @@ const displayCards = (data) => {
              </div>
           </div>
          </div>
-      </div>;
+      </div>
     `;
   });
   listWrapper.innerHTML += output;
