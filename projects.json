@@ -1,0 +1,145 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Expanding cards",
+      "img": "./img/1.png",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/1.%20Expanding%20Cards",
+      "preview": "http://50projects-project-1.netlify.app"
+    },
+    {
+      "id": 2,
+      "title": "Progress step bar",
+      "img": "./img/2.PNG",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/2.%20Progress%20step%20bar",
+      "preview": "http://50projects-project-2.netlify.app"
+    },
+    {
+      "id": 3,
+      "title": "Hidden search widget",
+      "img": "./img/3.PNG",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/3.%20Hidden%20Search%20Widget",
+      "preview": "http://50projects-project-3.netlify.app"
+    },
+    {
+      "id": 4,
+      "title": "About Page",
+      "img": "./img/4.PNG",
+      "code": "https://github.com/whatthefoobar/50days-of-code/tree/main/4.%20About%20Page",
+      "preview": "http://50projects-project-4.netlify.app"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "img": "./img/5.PNG",
+      "code": "",
+      "preview": "http://50projects-project-5.netlify.app"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "img": "./img/6.PNG",
+      "code": "",
+      "preview": "http://50projects-project-6.netlify.app"
+    },
+    {
+      "id": 7,
+      "title": "About Page",
+      "img": "./img/7.PNG",
+      "code": "",
+      "preview": "http://50projects-project-7.netlify.app"
+    },
+    {
+      "id": 8,
+      "title": "About Page",
+      "img": "./img/8.PNG",
+      "code": "",
+      "preview": "http://50projects-project-8.netlify.app"
+    },
+    {
+      "id": 9,
+      "title": "About Page",
+      "img": "./img/9.PNG",
+      "code": "",
+      "preview": "http://50projects-project-9.netlify.app"
+    },
+    {
+      "id": 10,
+      "title": "About Page",
+      "img": "./img/10.PNG",
+      "code": "",
+      "preview": "http://50projects-project-10.netlify.app"
+    },
+    {
+      "id": 11,
+      "title": "About Page",
+      "img": "./img/11.PNG",
+      "code": "",
+      "preview": "http://50projects-project-11.netlify.app"
+    },
+    {
+      "id": 12,
+      "title": "About Page",
+      "img": "./img/12.PNG",
+      "code": "",
+      "preview": "http://50projects-project-12.netlify.app"
+    },
+
+    {
+      "id": 13,
+      "title": "About Page",
+      "img": "./img/13.PNG",
+      "code": "",
+      "preview": "http://50projects-project-13.netlify.app"
+    },
+    {
+      "id": 14,
+      "title": "About Page",
+      "img": "./img/14.PNG",
+      "code": "",
+      "preview": "http://50projects-project-14.netlify.app"
+    },
+    {
+      "id": 15,
+      "title": "About Page",
+      "img": "./img/15.PNG",
+      "code": "",
+      "preview": "http://50projects-project-15.netlify.app"
+    },
+    {
+      "id": 16,
+      "title": "About Page",
+      "img": "./img/16.PNG",
+      "code": "",
+      "preview": "http://50projects-project-16.netlify.app"
+    },
+    {
+      "id": 17,
+      "title": "About Page",
+      "img": "./img/17.PNG",
+      "code": "",
+      "preview": "http://50projects-project-17.netlify.app"
+    },
+    {
+      "id": 18,
+      "title": "About Page",
+      "img": "./img/18.PNG",
+      "code": "",
+      "preview": "http://50projects-project-18.netlify.app"
+    },
+    {
+      "id": 19,
+      "title": "About Page",
+      "img": "./img/19.PNG",
+      "code": "",
+      "preview": "http://50projects-project-19.netlify.app"
+    },
+    {
+      "id": 20,
+      "title": "About Page",
+      "img": "./img/20.PNG",
+      "code": "",
+      "preview": "http://50projects-project-20.netlify.app"
+    }
+  ]
+}
