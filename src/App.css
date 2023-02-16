@@ -4,6 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+body {
+  background-color: #5b5757;
+  color: #fff;
+}
 
 h1 {
   margin: 1rem auto 4rem;
