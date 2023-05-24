@@ -321,7 +321,7 @@ export const projects = [
   {
     id: 37,
     title: "Piano",
-    iimg: [p37],
+    img: [p37],
     code: "https://github.com/whatthefoobar/50days-of-code/tree/main/37.%20Piano",
     preview: "http://50projects-project-37.netlify.app",
   },
