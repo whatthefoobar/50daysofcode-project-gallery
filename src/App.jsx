@@ -1,8 +1,8 @@
 import "./App.css";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import Card from "./Card";
 import { projects, responsive } from "./data";
+import Card from "./components/Card";
 
 export default function App() {
   const product = projects.map((item) => (

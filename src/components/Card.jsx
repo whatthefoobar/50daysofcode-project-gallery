@@ -1,6 +1,6 @@
-import React from "react";
+import PropTypes from "prop-types";
 
-export default function Card({ id, title, img, code, preview }) {
+export default function Card({ title, img, code, preview }) {
   return (
     <div className="card">
       <img className="image" src={img} alt="project" />
@@ -16,3 +16,10 @@ export default function Card({ id, title, img, code, preview }) {
     </div>
   );
 }
+
+Card.propTypes = {
+  title: PropTypes.string.isRequired,
+  img: PropTypes.string.isRequired,
+  code: PropTypes.string.isRequired,
+  preview: PropTypes.string.isRequired,
+};
